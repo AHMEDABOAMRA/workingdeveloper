@@ -1,0 +1,232 @@
+
+ .a {
+width: 100%;
+display: grid;
+grid-template-columns: 1fr 1fr 1fr 1fr;
+grid-gap: 1rem;
+padding:1rem;
+font-size: 1rem;
+background-color: #f6f6f6;
+z-index: 1;
+position: fixed;
+  }
+  .fas{
+margin-left: 1rem;
+   }  body{
+height: 2000px;     }    .social{
+margin-top: 19rem;
+position: fixed;
+  width: 100%;
+  height: 300px;
+  display: grid;
+  grid-template-columns: 1fr;
+  grid-gap: 0rem;
+padding: 2rem;
+   }  .social .fab{
+float: right;
+margin-left: 2rem;
+border-radius: 20px;
+color: blue;
+      }
+ #ass{
+
+  font-size: 2rem;
+  color: black;
+  margin-top: .5rem;
+   }   .nav-item #as{
+
+        font-size: 2rem;
+        color: white;
+        margin-top: .5rem;
+         } #as .fa{
+
+              margin-left: 1rem;
+               }.banner{
+width: 100%;
+background-image: url();
+background-position: center center;
+background-size: cover;
+background-repeat: no-repeat;
+#sd{
+position: relative;
+bottom:100%;
+
+
+
+}
+
+
+
+
+
+               }
+
+               #io{
+              position: relative;
+               left: 1%;
+color: #3c5b98;
+               }
+
+
+
+
+
+               #fg{
+position: relative;
+bottom:50%;
+left: 1%;
+color: #439cd6;
+
+
+               }#sd{
+position: relative;
+bottom:100%;
+left: 1.2%;
+color: red;
+
+               }#qe{
+position: relative;
+bottom:150%;
+left: 1%;
+color: red;
+
+
+
+               }#yx{
+position: relative;
+bottom:190%;
+left: 1%;
+color: red;
+
+
+               }
+               .banner:before{
+                 content: "";
+                 float: left;
+                 padding-bottom: 40%;
+
+
+
+
+               }
+               .banner:after{
+                 content: "";
+                 display: table;
+                 clear: both;
+
+
+
+
+               }
+
+
+
+          .navbar{
+         margin-top: 7rem;
+         z-index: 0;
+
+         padding-top: 3rem;
+            }  #asf a{
+              margin-top: .5rem;
+
+              font-size: 2rem;
+color: white;
+
+
+               } .navbar-header .navbar-brand  {
+                 margin-right: 6.5rem;
+                 margin-top: .5rem;
+color: white;
+                 font-size: 4rem;
+
+
+
+        }
+  .a h1,h2{
+width: 100%;
+ font-size: 2rem;
+
+   }.er{
+ position: relative;
+ left: 30%;
+
+    }.er .fas{
+font-size: 30px;
+color: white;
+margin-top: 1rem;
+
+     }.er span{
+ font-size: 30px;
+ color: red;
+ margin-top: 1rem;
+ margin-left: 1rem;
+
+      }
+  .b{
+  width: 100%;
+  }
+  .c{
+  width: 100%;
+  }
+
+  .d{
+  width: 100%;
+  }
+
+  .f h2{
+position: absolute;}
+
+.d h2{
+margin-left: 20rem;
+}
+
+.c h1{
+margin-left: 13rem;}
+
+
+
+
+
+
+.fab{
+  margin-top: 1.3rem;
+  font-size: 30px;
+  border-radius: 50%;
+}
+
+/* Add a hover effect if you want */
+.fab:hover {
+    opacity: 0.7;
+    color: red;
+}
+
+/* Set a specific color for each brand */
+
+/* Facebook */
+.fab-facebook {
+  font-size: 20rem;
+
+    background: #3B5998;
+    color: white;
+    text-decoration: none;
+}
+
+/* Twitter */
+.fab-twitter {
+    background: #55ACEE;
+    color: white;
+}
+.fab-youtube {
+  background: #bb0000;
+  color: white;
+}
+
+.fab-instagram {
+  background: #bb0000;
+  color: white;
+}
+
+.fab-pinterest {
+  background: #cb2027;
+  color: white;
+}
